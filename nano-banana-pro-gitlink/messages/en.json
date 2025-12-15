@@ -1,0 +1,497 @@
+{
+  "header": {
+    "home": "Home",
+    "showcase": "Showcase",
+    "history": "History",
+    "blog": "Blog",
+    "pricing": "Pricing",
+    "tryItNow": "Sign In",
+    "purchase": "Get Credits",
+    "credits": "credits",
+    "creditsBalance": "Credits Balance",
+    "yourCurrentBalance": "Your current balance",
+    "availableCredits": "Available Credits",
+    "creditsUsage": "Credit Usage",
+    "creditsUsageDesc": "Credit usage per image: Nano Banana uses 3 credits; Nano Banana Pro 1K/2K use 6 credits; Nano Banana Pro 4K uses 12 credits",
+    "creditsExpiry": "Validity Period",
+    "creditsExpiryDesc": "Credits never expire and can be used anytime",
+    "gotIt": "Got It"
+  },
+  "footer": {
+    "brandName": "Nano Banana Pro",
+    "description": "Nano Banana Pro is the next-generation creative engine for instant 4K images, photo edits, UI mockups, and anime masterpieces—all in 1-2 seconds.",
+    "product": "Product",
+    "features": "Features",
+    "showcase": "Showcase",
+    "pricing": "Pricing",
+    "tryNow": "Create Now",
+    "company": "Company",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "mediaPartner": "Media Partner",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "refund": "Refund Policy",
+    "copyright": "© 2025 Nano Banana Pro. Independent AI creative platform. All rights reserved.",
+    "customerSupport": "Customer Support"
+  },
+  "home": {
+    "metaTitle": "Free Nano Banana Pro - Next-Gen Creative AI",
+    "metaDescription": "Experience Nano Banana Pro, the upgraded creative engine delivering 4K images in 1-2 seconds. Turn prompts or photos into pro-grade outputs instantly.",
+    "hero": {
+      "badge": "Nano Banana Pro is an independent platform built on Google's creative stack. Not affiliated with Google. Experience next-generation AI image creation.",
+      "title": "",
+      "titleHighlight": "Nano Banana Pro",
+      "titleEnd": "Free AI Image Generator for 4K Images",
+      "description": "The upgraded Nano Banana Pro combines its signature workflow with a new high-speed engine. Generate up to 10 images per round, remix reference photos, and edit scenes with natural text commands. From Google Photos-style retouching to cinematic concept art, every idea becomes publish-ready in seconds.",
+      "stats": {
+        "speed": "1-2 seconds",
+        "speedText": "Lightning pipeline",
+        "images": "10 images",
+        "imagesText": "per generation",
+        "satisfaction": "Native 4K",
+        "satisfactionText": "Synth-ID watermark"
+      },
+      "cta": "Start Creating Free"
+    },
+    "coreCapabilityBadge": "Core Capability",
+    "examplePromptLabel": "Example Prompt:",
+    "beforeLabel": "Before",
+    "afterLabel": "After (Turned Around)",
+    "mathIntelligence": {
+      "badge": "Core Capability",
+      "title": "Data-Grade Intelligence",
+      "subtitle": "Charts, Equations, and Text That Stay Accurate",
+      "description": "Nano Banana Pro handles math, data, and multilingual copy with the precision of a technical illustrator. Build infographics, chalkboard proofs, dashboards, and handwritten notebooks with pixel-perfect notation and flawless reasoning steps.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro solves complex mathematical problems and visualizes them instantly",
+        "benefit2": "Nano Banana Pro generates multi-step derivations with synced handwriting or UI text",
+        "benefit3": "Nano Banana Pro supports multilingual labels and data-heavy layouts",
+        "benefit4": "Nano Banana Pro is ideal for education, research decks, and product explainers"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "Online course creators",
+        "case2": "Teachers & tutors",
+        "case3": "Textbook illustrations",
+        "case4": "Research presentations"
+      },
+      "example": {
+        "prompt": "Render a multi-step calculus proof with annotations plus a matching infographic bar chart",
+        "style": "Educational / Infographic",
+        "time": "2 seconds",
+        "resolution": "4K"
+      },
+      "cta": "Explore More Math Examples"
+    },
+    "uiIntelligence": {
+      "badge": "Core Capability",
+      "title": "Multi-Layer UI Intelligence",
+      "subtitle": "Production-Ready Interfaces",
+      "description": "Nano Banana Pro understands nested operating systems, app shells, and localized UI copy. Produce desktop captures, mobile flows, and marketing sites with true-to-brand typography, button spacing, and live text rendering.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro generates nested UI layers (OS → browser → app → modal) with fidelity",
+        "benefit2": "Nano Banana Pro keeps icons, colors, and sizing locked to brand systems",
+        "benefit3": "Nano Banana Pro renders pixel-perfect text, charts, and data widgets in any language"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "UI/UX designers",
+        "case2": "Product managers",
+        "case3": "Marketing materials",
+        "case4": "Tutorial screenshots"
+      },
+      "example": {
+        "prompt": "Generate a screenshot of a windows 11 desktop, with google chrome open, showing a YouTube thumbnail of Mr. Beast on http://YouTube.com",
+        "style": "UI/Interface Mockup",
+        "time": "2 seconds",
+        "resolution": "4K"
+      },
+      "cta": "See More UI Examples"
+    },
+    "characterConsistency": {
+      "badge": "Core Capability",
+      "title": "Perfect Character Consistency",
+      "subtitle": "Same Character, Any Angle",
+      "description": "Nano Banana Pro maintains perfect character consistency across different angles, poses, and expressions. Generate the same character from multiple viewpoints without losing any detail—hair, accessories, clothing, and proportions remain identical.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro maintains character identity across views and iterations",
+        "benefit2": "Nano Banana Pro preserves every micro-detail (hair, accessories, fabrics)",
+        "benefit3": "Nano Banana Pro supports multi-step refinement without drifting"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "Anime/Manga creators",
+        "case2": "Game character design",
+        "case3": "IP development",
+        "case4": "Storyboard creation"
+      },
+      "example": {
+        "prompt": "Turn her around (maintaining all character details and accessories)",
+        "style": "Anime / Character Design",
+        "time": "2 seconds",
+        "resolution": "4K"
+      },
+      "cta": "Explore Character Examples"
+    },
+    "commercialCreative": {
+      "badge": "Core Capability",
+      "title": "Commercial-Grade Creative",
+      "subtitle": "Professional Ad Quality",
+      "description": "Nano Banana Pro rivals on-set photography with cinematic lighting, lens-accurate depth, and Synth-ID watermarking for authenticity. Spin up product hero shots, seasonal campaigns, and social-ready motion frames faster than a photoshoot and with granular creative control.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro delivers professional advertising quality in 1-2 seconds",
+        "benefit2": "Nano Banana Pro keeps brand logos, typography, and material response accurate",
+        "benefit3": "Nano Banana Pro generates up to 10 scenes per round for rapid iteration"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "Ad agencies",
+        "case2": "Brand marketing",
+        "case3": "Social media",
+        "case4": "E-commerce"
+      },
+      "example": {
+        "prompt": "Create a professional Mercedes-Benz G63 advertisement photoshoot in a desert landscape with cinematic lighting and 'THE ALL-NEW G63' text overlay",
+        "style": "Commercial Photography",
+        "time": "2 seconds",
+        "resolution": "4K"
+      },
+      "cta": "View More Commercial Examples"
+    },
+    "precisionControl": {
+      "badge": "Core Capability",
+      "title": "Multi-Detail Precision Control",
+      "subtitle": "Pixel-Perfect Accuracy",
+      "description": "Nano Banana Pro follows multi-part prompts with scientific accuracy—set specific times, ingredient levels, typography, and camera metadata in one shot, even across multilingual instructions.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro renders accurate time details (clocks, watches, device HUDs)",
+        "benefit2": "Nano Banana Pro controls precise physical states (liquid levels, product textures, lighting)",
+        "benefit3": "Nano Banana Pro manages multiple complex details simultaneously with multi-step iteration"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "Product photography",
+        "case2": "Educational materials",
+        "case3": "Technical documentation",
+        "case4": "Storyboard creation"
+      },
+      "example": {
+        "prompt": "Show 11:15 on the clock and a wine glass filled to the top on a wooden table",
+        "style": "Photorealistic / Product Shot",
+        "time": "1 second",
+        "resolution": "4K"
+      },
+      "cta": "See Precision Examples"
+    },
+    "characterMastery": {
+      "badge": "Core Capability",
+      "title": "Lifelike Character Mastery",
+      "subtitle": "Perfect Character Rendering",
+      "description": "Nano Banana Pro excels at photoreal humans and stylized anime, now with Google Photos-style edit handles. Swap outfits, adjust hair, change eras, or restyle lighting with one tap—while staying consistent across every angle.",
+      "benefits": {
+        "benefit1": "Nano Banana Pro produces photorealistic humans indistinguishable from real photos",
+        "benefit2": "Nano Banana Pro spans anime/manga styles from storybook calm to high-action shounen",
+        "benefit3": "Nano Banana Pro gives precise control over expressions, poses, lighting, and outfits"
+      },
+      "useCases": {
+        "title": "Perfect For",
+        "case1": "Portrait photography",
+        "case2": "Anime/manga creation",
+        "case3": "Character design",
+        "case4": "Visual storytelling"
+      },
+      "example": {
+        "prompt": "Elegant woman with vintage blonde curls in winter forest, snow falling, Japanese torii gate in background, close-up with ice crystal eye makeup, cinematic lighting, film photography style",
+        "style": "Cinematic Portrait",
+        "time": "2 seconds",
+        "resolution": "4K"
+      },
+      "cta": "Explore Character Gallery"
+    },
+    "features": {
+      "title": "Why Nano Banana Pro Leads the Next Creative Era",
+      "subtitle": "Nano Banana Pro blends lightning speed, cultural fluency, and pro-grade accuracy. Batch 10 visuals, edit in real time, and trust Synth-ID watermarks for enterprise use."
+    },
+    "howItWorks": {
+      "title": "From Idea to Art in 3 Steps",
+      "subtitle": "Nano Banana Pro behaves like a pro art assistant—describe, style, refine in seconds",
+      "step1": {
+        "title": "Describe Your Vision",
+        "description": "Type or speak prompts such as “Transform this portrait into a Renaissance oil painting with golden hour lighting.” Add references or let Nano Banana Pro start from scratch—Nano Banana Pro handles both text and image inputs."
+      },
+      "step2": {
+        "title": "Pick Mode & Batch Size",
+        "description": "Select 2K or 4K, enable up to 10 outputs, and decide whether you’re editing a photo, blending multiple shots, or generating fresh concepts. Nano Banana Pro keeps styles locked in so every batch stays coherent."
+      },
+      "step3": {
+        "title": "Iterate in Real Time",
+        "description": "Use multi-step refinements—“add snowfall,” “move the camera overhead,” “fix the smile”—until it’s perfect. Download instantly with Synth-ID protection and keep iterating inside Nano Banana Pro whenever inspiration strikes."
+      },
+      "cta": "Create Your First Image with Nano Banana Pro"
+    },
+    "useCases": {
+      "title": "Unleash Creativity Across Every Medium",
+      "subtitle": "From casual editors to studio teams, Nano Banana Pro accelerates every workflow—photo restyling, UI prototyping, anime storyboarding, data storytelling, even NotebookLM video overviews powered by Nano Banana Pro.",
+      "case1": {
+        "title": "🎭 Anime & Character Art",
+        "description": "Create Tokyo Ghoul-style scenes, storybook portraits, or original IP with consistent wardrobe, hair, and props across 10 shots. Nano Banana Pro keeps references locked for comics, VTubers, and figurine design."
+      },
+      "case2": {
+        "title": "💻 UI & Interface Design",
+        "description": "Mock up OS screens, Google Photos flows, or marketing sites instantly. Perfect for product decks, content marketing, and design inspiration without Figma or Photoshop overhead."
+      },
+      "case3": {
+        "title": "📸 Realistic Photography",
+        "description": "Generate lifelike portraits, lifestyle shoots, or product hero images with Synth-ID authenticity and voice-driven edits like “remove the glare” or “change the jacket color.”"
+      },
+      "case4": {
+        "title": "📊 Infographics & Diagrams",
+        "description": "Visualize calculus proofs, timelines, flowcharts, or international signage with pixel-perfect text. Ideal for educators, analysts, and marketing teams building data stories."
+      }
+    },
+    "whyChoose": {
+      "title": "Why Nano Banana Pro Outshines Competitors",
+      "subtitle": "While other tools still juggle slow queues or broken text, Nano Banana Pro delivers instant, culturally aware visuals. It's more than an image generator—it's a Google-grade creative copilot.",
+      "benefit1": {
+        "title": "No Learning Curve",
+        "description": "Nano Banana Pro ensures that if you can describe an edit, you can ship a final visual. Natural prompts, photo references, or quick sliders—Nano Banana Pro handles the technical layers."
+      },
+      "benefit2": {
+        "title": "Faster Than Midjourney, Smarter Than DALL-E",
+        "description": "Nano Banana Pro finishes in 1-2 seconds, outputs native 4K, and nails UI text, signage, and handwriting. No Discord bots, no prompt engineering headaches with Nano Banana Pro."
+      },
+      "benefit3": {
+        "title": "Consistent Character & Style",
+        "description": "Upload reference photos or generated shots into Nano Banana Pro and keep characters, outfits, or products identical across 10 variants. Ideal for storytelling, branding, and video frames inside Nano Banana Pro."
+      },
+      "benefit4": {
+        "title": "Works Everywhere",
+        "description": "Access Nano Banana Pro from desktop, mobile, or tablet—plus deep integrations with Google Photos, Gemini chat, and upcoming NotebookLM video workflows."
+      },
+      "difference": {
+        "title": "The Nano Banana Pro Advantage",
+        "quality": "Image Fidelity",
+        "qualityValue": "Native 4K",
+        "speed": "Generation Speed",
+        "speedValue": "1-2 seconds",
+        "ease": "Ease of Use",
+        "easeValue": "Write & create",
+        "detail": "Text Rendering",
+        "detailValue": "Pixel-perfect"
+      },
+      "testimonial": {
+        "quote": "I tried the Nano Banana Pro beta after using Nano Banana 2 for months—the leap in quality is unreal. Ten outputs in a burst, flawless UI text, photo edits that feel like Google Photos magic. It's my fastest content pipeline now.",
+        "author": "— Alex Chen, Digital Artist & YouTuber"
+      }
+    },
+    "faq": {
+      "title": "Your Questions, Answered",
+      "subtitle": "Everything you need to know about creating with Nano Banana Pro",
+      "q1": {
+        "question": "What is Nano Banana Pro and how does it work?",
+        "answer": "Nano Banana Pro is the upgraded evolution of Google's Nano Banana project. Through our custom interface you can feed prompts, upload photos, or blend multiple references and receive up to 10 Synth-ID-protected outputs in 1-2 seconds. It handles edits, restyles, and brand-new scenes with the same ease."
+      },
+      "q2": {
+        "question": "How is this different from Midjourney or DALL-E?",
+        "answer": "Nano Banana Pro delivers 1-2 second generations, native 4K detail, and perfect text rendering. You can also edit via natural language, something Midjourney and DALL·E still struggle with. No Discord bots, no complex parameter codes—just describe what you need."
+      },
+      "q3": {
+        "question": "What can I create with Nano Banana Pro?",
+        "answer": "Anything—from photo edits and outfit swaps to UI mockups, anime scenes, infographics, or even NotebookLM-ready storyboards. Nano Banana Pro handles realistic, anime, UI/OS, handwriting, abstract, and 3D renders plus video-overview friendly frames. If you can describe it, Nano Banana Pro can visualize it."
+      },
+      "q4": {
+        "question": "Will my images look AI-generated or fake?",
+        "answer": "Nano Banana Pro aims for production realism. Portraits, UI text, and environmental lighting hold up under scrutiny, plus Synth-ID makes it easy to prove authenticity. If something feels off, just iterate—'soften the smile,' 'swap the sky,' 'make the text bolder'—and watch the fix apply instantly."
+      },
+      "q5": {
+        "question": "What are credits and how do they work?",
+        "answer": "Credits power Nano Banana Pro generations. 2K images cost 2 credits each, 4K costs 5 credits, and batch runs consume credits per output set. Free previews include daily credits; paid plans layer on 4K access, 10-image bursts, and commercial licensing. Credits never expire."
+      },
+      "q6": {
+        "question": "Can I use Nano Banana Pro images commercially?",
+        "answer": "Yes! Paid plan subscribers receive full commercial licenses for generated images. Use them in marketing, products, videos, prints, NFTs—anywhere. Free tier images are for personal use only. Always review our terms for specific use cases."
+      },
+      "q7": {
+        "question": "How much does Nano Banana Pro cost?",
+        "answer": "Start Nano Banana Pro free with daily credits. Creator ($19.9/mo) and Pro ($49.9/mo) plans unlock 4K, 10-image bursts, and commercial use. Check our pricing page for the latest plans and features.",
+        "answerLink": "View full pricing"
+      },
+      "q8": {
+        "question": "Is my data private and safe with Nano Banana Pro?",
+        "answer": "Absolutely. Nano Banana Pro runs on encrypted infrastructure, and we don't store prompts or files without explicit opt-in. Synth-ID watermarks provide invisible attribution, but you retain ownership of every export. Review our privacy policy for the full breakdown."
+      }
+    },
+    "cta": {
+      "title": "Ready to Create with Nano Banana Pro?",
+      "subtitle": "Start creating with Nano Banana Pro free—no credit card required. Experience the power of next-generation AI.",
+      "button": "Start Creating with Nano Banana Pro"
+    }
+  },
+  "pricing": {
+    "title": "Simple, Transparent",
+    "titleHighlight": "Pricing",
+    "subtitle": "Choose the plan that fits your Nano Banana Pro workflow. Upgrade anytime as your creative needs grow.",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "savePercent": "Save 50%",
+    "perMonth": "/month",
+    "billedAnnually": "billed annually",
+    "creditsPerYear": "credits/year",
+    "creditsPerMonth": "credits/month",
+    "mostPopular": "Most Popular",
+    "getStarted": "Get Started",
+    "plans": {
+      "basic": {
+        "name": "Basic",
+        "description": "Perfect for casual users",
+        "features": [
+          "75 high-quality images/month",
+          "All style templates",
+          "Standard generation speed",
+          "Basic customer support",
+          "Commercial Use License",
+          "Private generations",
+          "Download images",
+          "Stored generation history"
+        ]
+      },
+      "premium": {
+        "name": "Premium",
+        "description": "Best for professionals",
+        "features": [
+          "400 high-quality images/month",
+          "All style templates",
+          "All models supported",
+          "Priority generation queue",
+          "Priority customer support",
+          "Commercial Use License",
+          "Private generations",
+          "Download images",
+          "Stored generation history"
+        ]
+      },
+      "pro": {
+        "name": "Pro",
+        "description": "For power users & teams",
+        "features": [
+          "1,450 high-quality images/month",
+          "All style templates",
+          "All models supported",
+          "Fastest generation speed",
+          "Dedicated account manager",
+          "Commercial Use License",
+          "Private generations",
+          "Download images",
+          "Stored generation history"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Still not sure which plan is right?",
+      "description": "Start with Basic and upgrade anytime as your needs grow.",
+      "button": "Get Started Now →"
+    }
+  },
+  "showcase": {
+    "metaTitle": "Gallery - Nano Banana Pro | Revolutionary AI Capabilities Showcase",
+    "metaDescription": "Explore Nano Banana Pro's upgraded capabilities: Data-Grade Intelligence, Multi-Layer UI, Perfect Character Consistency, Commercial Creative, Precision Control, and Lifelike Character Mastery.",
+    "title": "Revolutionary AI Capabilities in Action",
+    "subtitle": "See how Nano Banana Pro pushes creative AI to new limits—math proofs, UI flows, anime characters, and commercial shoots generated in 1-2 seconds.",
+    "cta": {
+      "title": "Ready to Experience These Capabilities?",
+      "subtitle": "Start creating with 10 free credits. No credit card required. Unlock all revolutionary features with Nano Banana Pro.",
+      "startCreating": "Start Creating Free",
+      "viewPricing": "View Pricing"
+    }
+  },
+  "generator": {
+    "title": "Create Your Masterpiece",
+    "subtitle": "Describe your vision and watch Nano Banana Pro bring it to life",
+    "modelSelection": "AI Model Selection",
+    "referenceImage": "Reference Image",
+    "optional": "Optional",
+    "aspectRatio": "Aspect Ratio",
+    "aspectRatioAuto": "Auto",
+    "prompt": "Prompt",
+    "promptPlaceholderText": "A futuristic cityscape at sunset, neon lights, flying cars, cyberpunk aesthetic, ultra detailed, 4K quality...",
+    "promptPlaceholderImage": "Describe how to transform the reference image... e.g., 'Turn this into anime style, add cherry blossoms, vibrant colors'",
+    "imageGuidedActive": "Image-guided generation active - AI will reference your images",
+    "generateButton": "Generate Now",
+    "generating": "Generating Your Masterpiece...",
+    "credits": "credits",
+    "upgradeLink": "Upgrade for faster generation & more features",
+    "previewArea": "Preview Area",
+    "yourCreation": "Your Creation",
+    "readyToCreate": "Ready to Create",
+    "readyToCreateDesc": "Enter your prompt and click Generate to bring your vision to life with Nano Banana Pro",
+    "aiCreating": "AI is creating your masterpiece...",
+    "timeEstimate": "This usually takes ~60 seconds",
+    "download": "Download",
+    "regenerate": "Regenerate",
+    "viewHistory": "View History",
+    "upgradePrompt": "Want 4K quality & batch generation?",
+    "upgradeNow": "Upgrade Now",
+    "errorPromptRequired": "Please enter a prompt",
+    "loginPrompt": "Login now to get free credits",
+    "qualitySelection": "Image Quality",
+    "quality1K": "1K Standard",
+    "quality2K": "2K HD",
+    "quality4K": "4K Ultra HD",
+    "privateDisplay": "Private Display",
+    "proOnly": "Pro Only",
+    "privateDisplayEnabled": "Private Mode Active",
+    "privateDisplayDisabled": "Public Mode",
+    "privateDisplayDescPro": "Your creations are private and won't appear in public gallery",
+    "privateDisplayDescFree": "Upgrade to Pro to keep your creations private"
+  },
+  "history": {
+    "title": "Generation History",
+    "subtitle": "View all your AI-generated creations",
+    "loading": "Loading your history...",
+    "emptyTitle": "No history yet",
+    "emptyDesc": "Start creating amazing images with Nano Banana Pro",
+    "createNow": "Create Now",
+    "download": "Download",
+    "clickToDownload": "Click to download",
+    "noPrompt": "No prompt",
+    "upgradeTitle": "Unlock Your Creation History",
+    "upgradeDesc": "Upgrade to Pro to access all your generated images",
+    "upgradeFeatures": "Pro Member Benefits",
+    "feature1": "View unlimited generation history",
+    "feature2": "Download all your creations",
+    "feature3": "Private mode for your images",
+    "feature4": "4K Ultra HD quality",
+    "upgradeButton": "Upgrade to Pro",
+    "backHome": "Back to Home"
+  },
+  "contact": {
+    "title": "Customer Support",
+    "description": "Please contact us via email:",
+    "close": "Close"
+  },
+  "common": {
+    "comingSoon": "Coming Soon"
+  },
+  "blog": {
+    "metaTitle": "Blog - Nano Banana Pro | AI Image Generation Tips & Tutorials",
+    "metaDescription": "Discover the latest tips, tutorials, and insights about AI image generation with Nano Banana Pro. Learn how to create stunning visuals effortlessly.",
+    "title": "Blog",
+    "subtitle": "Tips, tutorials, and insights about AI image generation",
+    "comingSoon": "Coming Soon - Stay Tuned for Exciting Content!",
+    "backToBlog": "Back to Blog",
+    "backToAllPosts": "Back to all posts",
+    "articleCta": {
+      "title": "Ready to Try Nano Banana Pro?",
+      "subtitle": "Start creating stunning 4K images in seconds",
+      "button": "Start Creating"
+    },
+    "cta": {
+      "title": "Ready to Create Your Own Masterpiece?",
+      "subtitle": "Start generating stunning 4K images with Nano Banana Pro today",
+      "button": "Start Creating"
+    }
+  }
+}
